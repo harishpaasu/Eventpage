@@ -1,0 +1,65 @@
+@media screen and (max-width: 992px){
+body{
+
+    width: 95%;
+    height: 75vh;
+    border: 2px double black;
+    margin: 2%;
+    box-shadow: 5px 5px 5px 2px (rgba(0, 0, 0, 0.3));
+
+}}
+
+h1{    
+    text-align:center;
+     font-family: 'Shadows Into Light', cursive;
+     font-weight: 300;
+}
+.seats{
+    text-align: center;
+}
+.mainbox{
+    width: 90%;
+    height: 40vh;
+    border: 2px double black;
+    margin: 4%;
+    padding: 5px;
+    margin-top: 80px;
+}
+.imagebox{
+    border: 2px double black;
+    position: relative;
+    height: 140px;
+    width: 130px;
+    margin: 40px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.image{
+    border-radius: 50%;
+    position: relative;
+    height: 100px; 
+    width: 100px;
+    border: 2px double black;
+    margin: 10%;
+
+}
+.text{
+    text-align: center;
+    position: relative;
+    margin-top: 35%;
+    font-family: 'Caveat', cursive;
+    
+}
+
+form{
+    padding: 20px;
+    position: absolute;
+    text-align: right;
+    right: 0;
+    top: 0;
+    margin: 200px;
+    margin-right: 100px;
+    margin-top: 220px;
+
+    
+}
